@@ -1,0 +1,10 @@
+**/.DS_Store
+project/project
+project/target
+target
+.history
+/.idea
+/*.iml
+/*.ipr
+/out
+/.idea_modules
