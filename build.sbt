@@ -12,4 +12,5 @@ libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.0" % "test"
 
 libraryDependencies += "org.typelevel" %% "cats" % "0.8.1"
 
+libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "1.5.1"
 

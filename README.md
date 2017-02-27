@@ -1,2 +1,2 @@
-# scala-validation
-ruminations about validation in Scala
+# scala-json-reads
+experiments around scala-json conversion
